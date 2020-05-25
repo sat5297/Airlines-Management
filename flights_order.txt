@@ -1,0 +1,14 @@
+Bangalore Patna
+Bangalore Delhi
+Bangalore Lucknow
+Bangalore Mumbai
+Bangalore Chandigarh
+Bangalore Jaipur
+Patna Bangalore
+Delhi Bangalore
+Lucknow Bangalore
+Delhi Mumbai
+Delhi Patna
+Delhi Chandigarh
+Delhi Lucknow
+Delhi Jaipur
