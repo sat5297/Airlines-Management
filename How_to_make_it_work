@@ -1,0 +1,7 @@
+This file is about how to make the program work on your local machine.
+You need to have tkinter install on your system for the purpose.
+The date error needs to be corrected.
+Then you need the two files prog1_copy.py and flight_order.txt
+Using these 2 files you can run the entire program.
+It will create mutiple files according to its needs.
+The files are created using the source, destination and date.
